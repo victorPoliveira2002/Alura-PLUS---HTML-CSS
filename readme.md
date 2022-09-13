@@ -26,3 +26,4 @@ Segue projeto realizado em conjunto com curso de "Praticando HTML e CSS" na Alur
 
 ## :dart: Status do projeto
  * Projeto atualmente FINALIZADO!
+ * URL: https://alura-plus-html-css.vercel.app/
