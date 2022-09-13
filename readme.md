@@ -4,7 +4,7 @@
 Segue projeto realizado em conjunto com curso de "Praticando HTML e CSS" na Alura
 
 ## :books: Funcionalidades
-* <b>Funcionalidade -</b>  O que essa funcionalidade faz? Pagina inicial de um site "Alura" com intuito de praticar HTML e CSS
+* <b>Funcionalidade -</b> Pagina inicial de um site "Alura" com intuito de praticar HTML e CSS
 
 ## :wrench: Tecnologias utilizadas
 * Utilizado HTML e CSS (GRID)
