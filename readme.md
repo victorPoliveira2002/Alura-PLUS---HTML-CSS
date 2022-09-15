@@ -10,7 +10,7 @@ Segue projeto realizado em conjunto com curso de "Praticando HTML e CSS" na Alur
 * Utilizado HTML e CSS (GRID)
 
 
-## :person: Colaboradores
+## :man: Colaboradores
 <table>
   <tr>
     <td align="center">
