@@ -3,6 +3,9 @@
 ## :memo: Descrição
 Segue projeto realizado em conjunto com curso de "Praticando HTML e CSS" na Alura
 
+![Alura Plus](https://user-images.githubusercontent.com/72527282/199071498-aea83592-0b3c-46b0-b2da-9cef553321c0.png)
+
+
 ## :books: Funcionalidades
 * <b>Funcionalidade -</b> Pagina inicial de um site "Alura" com intuito de praticar HTML e CSS
 
